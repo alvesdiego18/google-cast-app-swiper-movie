@@ -1,4 +1,4 @@
-# google-cast-app-teste
+# google-cast-app-swiper-movie
 A ideia era construir um app que espelhasse um conteúdo dinâmico no Chromecast, como exemplo utilizei alguns filmes encontrados na própria internet. Imagino que um fork bem realizado dá para melhorar a ideia bastante.
 
 <img src="/src/img/simulate.gif?raw=true" width="200px">
