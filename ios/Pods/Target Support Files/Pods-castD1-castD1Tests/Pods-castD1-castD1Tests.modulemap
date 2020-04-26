@@ -1,0 +1,6 @@
+module Pods_castD1_castD1Tests {
+  umbrella header "Pods-castD1-castD1Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

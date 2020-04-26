@@ -1,0 +1,348 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+MERGED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-24:12
+MERGED from [:react-native-google-cast] /Users/Diego/Documents/react/castD1/node_modules/react-native-google-cast/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /Users/Diego/Documents/react/castD1/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b094fb955df3ddea0f2ed0e164cdba8c/jetified-react-native-0.62.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:2:1-22:12
+MERGED from [com.google.android.gms:play-services-cast:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/569fb59e3f1d2e2b7e3bd20b3c5400ab/jetified-play-services-cast-16.1.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/Diego/.gradle/caches/transforms-2/files-2.1/0e8864734f8aa03a01b554c93f6c0d9b/mediarouter-1.0.0-alpha5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/338690b81f4dc82f1b19f1d73c56fc81/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ab2c0d53782effd02ac7f499ae154019/appcompat-1.0.2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/519825fc4052e8e071f8574afc99971e/play-services-flags-16.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d913e169400b8c01c0bb4a9a48c96bb0/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/878d307d3ad7c425a6740cc4078fb7af/fragment-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c49cdaa5969bec656a216ff6f3f03cc7/vectordrawable-animated-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/Diego/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c885b65ff3a51f89213354f292d58616/palette-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a664c125aa60cf9ff5887e18e09a59ee/vectordrawable-1.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/Diego/.gradle/caches/transforms-2/files-2.1/55d5f702c29033fc920b1223a1dfcd21/media2-1.0.0-alpha02/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d3f5b9d4bc5026916abb0b1bdc9b8b3b/media-1.0.0-rc01/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ea21396468df8be045780cd3f2969b01/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/210299cf6deed86b415ac4fe49caebbb/versionedparcelable-1.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/bf807e61732cc28a01afb3e34dc1b0cd/lifecycle-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/490d3a5efeedcaf0b8c8c3c9854d4403/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ae802a55e74c19280a922e6de05f1e6e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/2a1ee7c7818c2783ad723954444a3349/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d6d110e4b2618a3961b5e7ea92dd365f/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:2:1-13:12
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+	package
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:2:3-23
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:1-33:12
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:6:5-31:19
+MERGED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-22:19
+MERGED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:12:5-22:19
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b094fb955df3ddea0f2ed0e164cdba8c/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b094fb955df3ddea0f2ed0e164cdba8c/jetified-react-native-0.62.2/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:9:5-20:19
+MERGED from [com.google.android.gms:play-services-cast:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/569fb59e3f1d2e2b7e3bd20b3c5400ab/jetified-play-services-cast-16.1.2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/569fb59e3f1d2e2b7e3bd20b3c5400ab/jetified-play-services-cast-16.1.2/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d913e169400b8c01c0bb4a9a48c96bb0/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d913e169400b8c01c0bb4a9a48c96bb0/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/210299cf6deed86b415ac4fe49caebbb/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/210299cf6deed86b415ac4fe49caebbb/versionedparcelable-1.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:10:7-52
+	android:icon
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.castd1.MainActivity
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:13:7-23:18
+	android:label
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:launchMode
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:17:9-40
+	android:windowSoftInputMode
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:18:9-51
+	android:configChanges
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:16:9-86
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:19:9-22:25
+action#android.intent.action.MAIN
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:20:13-65
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:20:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:21:13-73
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:21:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:24:7-84
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:24:17-81
+activity#com.reactnative.googlecast.GoogleCastExpandedControlsActivity
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:25:7-96
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:25:17-93
+meta-data#com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME
+ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:26:7-28:80
+	android:value
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:28:9-77
+	android:name
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:27:9-89
+uses-sdk
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-google-cast] /Users/Diego/Documents/react/castD1/node_modules/react-native-google-cast/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-google-cast] /Users/Diego/Documents/react/castD1/node_modules/react-native-google-cast/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Diego/Documents/react/castD1/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /Users/Diego/Documents/react/castD1/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/release/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b094fb955df3ddea0f2ed0e164cdba8c/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b094fb955df3ddea0f2ed0e164cdba8c/jetified-react-native-0.62.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/569fb59e3f1d2e2b7e3bd20b3c5400ab/jetified-play-services-cast-16.1.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/569fb59e3f1d2e2b7e3bd20b3c5400ab/jetified-play-services-cast-16.1.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/Diego/.gradle/caches/transforms-2/files-2.1/0e8864734f8aa03a01b554c93f6c0d9b/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.mediarouter:mediarouter:1.0.0-alpha5] /Users/Diego/.gradle/caches/transforms-2/files-2.1/0e8864734f8aa03a01b554c93f6c0d9b/mediarouter-1.0.0-alpha5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/338690b81f4dc82f1b19f1d73c56fc81/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/338690b81f4dc82f1b19f1d73c56fc81/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ab2c0d53782effd02ac7f499ae154019/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ab2c0d53782effd02ac7f499ae154019/appcompat-1.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/519825fc4052e8e071f8574afc99971e/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/519825fc4052e8e071f8574afc99971e/play-services-flags-16.0.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6158af36f33dab56a52a643764c9ece8/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d913e169400b8c01c0bb4a9a48c96bb0/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d913e169400b8c01c0bb4a9a48c96bb0/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/878d307d3ad7c425a6740cc4078fb7af/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/878d307d3ad7c425a6740cc4078fb7af/fragment-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c49cdaa5969bec656a216ff6f3f03cc7/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c49cdaa5969bec656a216ff6f3f03cc7/vectordrawable-animated-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a0cc55542e7f80901507e4e652970d1e/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/055a171d10c43231a2795117ecd4c3fd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] /Users/Diego/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/Diego/.gradle/caches/transforms-2/files-2.1/1ed26cdc1f47a6754ce1546799dd43a1/android-jsc-r245459/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/83ef104dfb430f397d92e4759e916162/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/8547c58d8a189afcab5540191afe7320/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ee0a0f1df6ec82b39c6bd94672681bab/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/fbdc3e33c0cf4fb6618b3fcc8d105591/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c3b7b12f448628b281d0d62b884cad68/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3b198830d922c7c36b5728d232b5dfa2/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/8b504391aa72c1fccbfde5f9aecf364d/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/9de4f137b5bba80ebab04e77dc5095d4/soloader-0.8.0/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3e974e7e51555c82be5b9fd468966b2b/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c885b65ff3a51f89213354f292d58616/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.palette:palette:1.0.0-rc01] /Users/Diego/.gradle/caches/transforms-2/files-2.1/c885b65ff3a51f89213354f292d58616/palette-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/35cad5169a4745c0bfde91156540bc0d/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a664c125aa60cf9ff5887e18e09a59ee/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a664c125aa60cf9ff5887e18e09a59ee/vectordrawable-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b3384283a73b276daf1e9a12cf250bb7/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/Diego/.gradle/caches/transforms-2/files-2.1/55d5f702c29033fc920b1223a1dfcd21/media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media2:media2:1.0.0-alpha02] /Users/Diego/.gradle/caches/transforms-2/files-2.1/55d5f702c29033fc920b1223a1dfcd21/media2-1.0.0-alpha02/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d3f5b9d4bc5026916abb0b1bdc9b8b3b/media-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-rc01] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d3f5b9d4bc5026916abb0b1bdc9b8b3b/media-1.0.0-rc01/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b95a670ae7bd376b7902e15855cd0ee3/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ea21396468df8be045780cd3f2969b01/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ea21396468df8be045780cd3f2969b01/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/3d8e4bc7a6af7aacf11542b377d7496f/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d12f3cd832a8f12aaa6c028e5d7796c3/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/f1fdfdf03c30563a3eb92f6c5b5051ce/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d23cfac6fd44ce3e9a8c7b4e18ff2938/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/210299cf6deed86b415ac4fe49caebbb/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/210299cf6deed86b415ac4fe49caebbb/versionedparcelable-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a20a73fc01b18d3fde5e258f4cd5ad79/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/bf807e61732cc28a01afb3e34dc1b0cd/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/bf807e61732cc28a01afb3e34dc1b0cd/lifecycle-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/71dd278aed309c95a240fbf4151d1363/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/dcbbc49e5cb5bb2aee330b22c38faa7c/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/fcf7d5609a86ac86db550c02db072902/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/490d3a5efeedcaf0b8c8c3c9854d4403/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/490d3a5efeedcaf0b8c8c3c9854d4403/lifecycle-viewmodel-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/21edf3c6b4f2eecf7b9eccd8e17daad5/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ae802a55e74c19280a922e6de05f1e6e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/ae802a55e74c19280a922e6de05f1e6e/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/2a1ee7c7818c2783ad723954444a3349/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/2a1ee7c7818c2783ad723954444a3349/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d6d110e4b2618a3961b5e7ea92dd365f/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/d6d110e4b2618a3961b5e7ea92dd365f/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/562a4d899b3a7a711a398f7636c8c187/annotation-0.8.2/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+receiver#com.learnium.RNDeviceInfo.RNDeviceReceiver
+ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
+	android:enabled
+		ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-35
+	android:exported
+		ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-36
+	tools:ignore
+		ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:17:13-44
+	android:name
+		ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-70
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-79
+	android:name
+		ADDED from [:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:25-76
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:7:5-77
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:7:22-74
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:10:9-12:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:12:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:11:13-91
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:14:9-16:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:16:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:15:13-96
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:17:9-19:40
+	android:exported
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:19:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:16.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/b1b388c10de884821dee2ddaef0994ee/jetified-play-services-cast-framework-16.1.2/AndroidManifest.xml:18:13-85
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-iid:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/72fb4bf3b9d1a4fb67c28eedb3c03b08/play-services-iid-17.0.0/AndroidManifest.xml:23:22-79
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6d45d9e0505112f0eec54f8796757f91/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/Diego/.gradle/caches/transforms-2/files-2.1/e3ce82b58563af3419c37c27df8a8db9/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:9:22-107

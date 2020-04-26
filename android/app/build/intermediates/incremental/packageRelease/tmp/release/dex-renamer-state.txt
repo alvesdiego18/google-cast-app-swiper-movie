@@ -1,0 +1,4 @@
+#Sat Apr 25 19:30:19 BRT 2020
+base.0=/Users/Diego/Documents/react/castD1/android/app/build/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
