@@ -1,7 +1,7 @@
 # google-cast-app-teste
 A ideia era construir um app que espelhasse um conteúdo dinâmico no Chromecast, como exemplo utilizei alguns filmes encontrados na própria internet. Imagino que um fork bem realizado dá para melhorar a ideia bastante.
 
-<img src="https://im6.ezgif.com/tmp/ezgif-6-33342f111377.gif?raw=true" width="200px">
+<img src="/src/img/sample.gif?raw=true" width="200px">
 
 # Utilizado 
 |**Nome**|**Usada**  |
