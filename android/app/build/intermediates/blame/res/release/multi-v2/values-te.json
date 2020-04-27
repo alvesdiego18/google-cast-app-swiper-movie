@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Diego/Documents/react/castD1/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml",
+            "outputFile": "/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-te/values-te.xml",
             "map": [
                 {
                     "source": "/Users/Diego/.gradle/caches/transforms-2/files-2.1/569fb59e3f1d2e2b7e3bd20b3c5400ab/jetified-play-services-cast-16.1.2/res/values-te/values.xml",

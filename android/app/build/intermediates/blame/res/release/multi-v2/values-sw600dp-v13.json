@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Diego/Documents/react/castD1/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
+            "outputFile": "/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-sw600dp-v13/values-sw600dp-v13.xml",
             "map": [
                 {
                     "source": "/Users/Diego/.gradle/caches/transforms-2/files-2.1/0e8864734f8aa03a01b554c93f6c0d9b/mediarouter-1.0.0-alpha5/res/values-sw600dp-v13/values-sw600dp-v13.xml",

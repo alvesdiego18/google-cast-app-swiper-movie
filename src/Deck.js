@@ -6,24 +6,38 @@ import { Container, View, DeckSwiper, Card, CardItem, Text, } from 'native-base'
 
 import Icon from "react-native-feather1s";
 
-export default function Deck({ data, cast, marginBottom, showPlay }) {
-
+export default function Deck({ data, cast, showPlay, changeImage, idPlay, movie, stop }) {
+    const [itemG, setItemG] = useState(null);
     const { height, width } = Dimensions.get('window')
+
+    useEffect(() => {
+        changeImage(itemG)
+    }, [itemG]);
 
     function BotaoPlay(item) {
 
         return (
             <View style={{ flexDirection: 'row' }}>
-                <Animatable.View useNativeDriver animation={showPlay ? 'zoomIn' : 'zoomOut'}>
-                    <TouchableOpacity activeOpacity={0.7} onPress={() => cast(item)} style={styles.vPlayButton}>
-                        <Icon
-                            name="play"
-                            size={26}
-                            color="#FFF"
-                            thin={false}
-                        />
-                    </TouchableOpacity>
-                </Animatable.View>
+                {
+                    (movie && idPlay) && (+movie.id === idPlay) ?
+                        <TouchableOpacity activeOpacity={0.7} onPress={() => stop(item)} style={styles.vPlayButton}>
+                            <Icon
+                                name="slash"
+                                size={26}
+                                color="#FFF"
+                                thin={false}
+                            />
+                        </TouchableOpacity>
+                        :
+                        <TouchableOpacity activeOpacity={0.7} onPress={() => cast(item)} style={styles.vPlayButton}>
+                            <Icon
+                                name="play"
+                                size={26}
+                                color="#FFF"
+                                thin={false}
+                            />
+                        </TouchableOpacity>
+                }
             </View>
         )
     }
@@ -42,7 +56,7 @@ export default function Deck({ data, cast, marginBottom, showPlay }) {
         return (
             <Card style={[styles.card, { height: height }]}>
 
-                <CardItem style={[styles.carditem, { marginBottom: marginBottom }]}>
+                <CardItem style={[styles.carditem, { marginBottom: movie ? 55 : 0 }]}>
                     <Animatable.View animation='fadeInLeft'>
                         <FolderMovie item={item} />
                     </Animatable.View>
@@ -57,7 +71,9 @@ export default function Deck({ data, cast, marginBottom, showPlay }) {
                 {
                     showPlay &&
                     <View style={styles.vPlay}>
-                        <BotaoPlay item={item} />
+                        <Animatable.View useNativeDriver animation={showPlay ? 'zoomIn' : 'zoomOut'}>
+                            <BotaoPlay item={item} />
+                        </Animatable.View>
                     </View>
                 }
 
@@ -70,6 +86,8 @@ export default function Deck({ data, cast, marginBottom, showPlay }) {
             <DeckSwiper
                 dataSource={data}
                 renderItem={item => Item(item)}
+                onSwipeRight={(item) => setItemG(item)}
+                onSwipeLeft={(item) => setItemG(item)}
             />
         </Container>
     )
@@ -90,13 +108,13 @@ const styles = StyleSheet.create({
         backgroundColor: "#121212",
     },
     imagebg: {
-        borderRadius: 16,
+        borderRadius: 10,
         resizeMode: 'cover'
     },
     imagebgbk: {
         backgroundColor: '#121212',
         position: 'absolute',
-        borderRadius: 16,
+        borderRadius: 10,
         opacity: 0.5,
         marginBottom: 55
     },

@@ -6,13 +6,13 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+8-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml
 9        android:targetSdkVersion="28" />
-9-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml
+9-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:4:5-67
-11-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:4:22-64
+11-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:4:5-67
+11-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:4:22-64
 12
 13    <!-- This permission is required to start foreground services in Android P. -->
 14    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" /> <!-- Required by older versions of Google Play services to create IID tokens -->
@@ -26,71 +26,71 @@
 16-->[com.android.installreferrer:installreferrer:1.1.2] /Users/Diego/.gradle/caches/transforms-2/files-2.1/a09e382bfb3f8fa2f0c18724e52b5356/installreferrer-1.1.2/AndroidManifest.xml:9:22-107
 17
 18    <application
-18-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:6:5-31:19
+18-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:6:5-31:19
 19        android:name="com.castd1.MainApplication"
-19-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:7:7-38
+19-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:7:7-38
 20        android:allowBackup="false"
-20-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:11:7-34
+20-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:11:7-34
 21        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 21-->[androidx.core:core:1.0.1] /Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/AndroidManifest.xml:22:18-86
 22        android:icon="@mipmap/ic_launcher"
-22-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:9:7-41
+22-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:9:7-41
 23        android:label="@string/app_name"
-23-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:8:7-39
+23-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:8:7-39
 24        android:roundIcon="@mipmap/ic_launcher_round"
-24-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:10:7-52
+24-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:10:7-52
 25        android:theme="@style/AppTheme" >
-25-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:12:7-38
+25-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:12:7-38
 26        <activity
-26-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:13:7-23:18
+26-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:13:7-23:18
 27            android:name="com.castd1.MainActivity"
-27-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:14:9-37
+27-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:14:9-37
 28            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
-28-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:16:9-86
+28-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:16:9-86
 29            android:label="@string/app_name"
-29-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:15:9-41
+29-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:15:9-41
 30            android:launchMode="singleTask"
-30-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:17:9-40
+30-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:17:9-40
 31            android:windowSoftInputMode="adjustResize" >
-31-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:18:9-51
+31-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:18:9-51
 32            <intent-filter>
-32-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:19:9-22:25
+32-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:19:9-22:25
 33                <action android:name="android.intent.action.MAIN" />
-33-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:20:13-65
-33-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:20:21-62
+33-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:20:13-65
+33-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:20:21-62
 34
 35                <category android:name="android.intent.category.LAUNCHER" />
-35-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:21:13-73
-35-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:21:23-70
+35-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:21:13-73
+35-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:21:23-70
 36            </intent-filter>
 37        </activity>
 38        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
-38-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:24:7-84
-38-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:24:17-81
+38-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:24:7-84
+38-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:24:17-81
 39        <activity android:name="com.reactnative.googlecast.GoogleCastExpandedControlsActivity" />
-39-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:25:7-96
-39-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:25:17-93
+39-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:25:7-96
+39-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:25:17-93
 40
 41        <meta-data
-41-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:26:7-28:80
+41-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:26:7-28:80
 42            android:name="com.google.android.gms.cast.framework.OPTIONS_PROVIDER_CLASS_NAME"
-42-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:27:9-89
+42-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:27:9-89
 43            android:value="com.reactnative.googlecast.GoogleCastOptionsProvider" />
-43-->/Users/Diego/Documents/react/castD1/android/app/src/main/AndroidManifest.xml:28:9-77
+43-->/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/src/main/AndroidManifest.xml:28:9-77
 44
 45        <receiver
-45-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
+45-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:13:9-21:20
 46            android:name="com.learnium.RNDeviceInfo.RNDeviceReceiver"
-46-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-70
+46-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:14:13-70
 47            android:enabled="true"
-47-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-35
+47-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:15:13-35
 48            android:exported="true" >
-48-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-36
+48-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:16:13-36
 49            <intent-filter>
-49-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:29
+49-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:29
 50                <action android:name="com.android.vending.INSTALL_REFERRER" />
-50-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-79
-50-->[:react-native-device-info] /Users/Diego/Documents/react/castD1/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:25-76
+50-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:17-79
+50-->[:react-native-device-info] /Users/Diego/Documents/react/google-cast-app-swiper-movie/node_modules/react-native-device-info/android/build/intermediates/library_manifest/release/AndroidManifest.xml:19:25-76
 51            </intent-filter>
 52        </receiver>
 53        <receiver

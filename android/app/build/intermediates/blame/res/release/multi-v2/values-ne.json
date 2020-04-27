@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/Diego/Documents/react/castD1/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml",
+            "outputFile": "/Users/Diego/Documents/react/google-cast-app-swiper-movie/android/app/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-ne/values-ne.xml",
             "map": [
                 {
                     "source": "/Users/Diego/.gradle/caches/transforms-2/files-2.1/6e813fa6b8fc8b59c3519258210e2a27/core-1.0.1/res/values-ne/values-ne.xml",
